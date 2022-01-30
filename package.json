@@ -14,7 +14,7 @@
     "async": "^3.2.0",
     "got": "^11.2.0",
     "jquery": "^3.5.1",
-    "python-shell": "^2.0.1",
+    "python-shell": "^2.0.3",
     "request": "^2.88.2",
     "request-cookies": "^1.1.0",
     "tough-cookie": "^4.0.0",
