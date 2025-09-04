@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "asar": "^3.0.3",
-    "electron": "^9.2.1",
+    "electron": "^35.7.5",
     "electron-packager": "^14.2.1",
     "electron-wix-msi": "^2.2.0"
   }
